@@ -4,6 +4,10 @@
     <title>Categories on thenestery.tech</title>
     <link>https://thenestery.tech/categories/</link>
     <description>Recent content in Categories on thenestery.tech</description>
+    <image>
+      <url>https://thenestery.tech/nestery.jpeg</url>
+      <link>https://thenestery.tech/nestery.jpeg</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://thenestery.tech/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
