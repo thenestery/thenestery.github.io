@@ -40,7 +40,7 @@ We want engineers to have end-to-end responsibility for systems. Every system sh
 We want everyone on the team to own code, design and architecture. It helps in sharing best practices and problem swarming. No silos means you and your teammates can enjoy vacations worry-free.
 
 ## Preferred Skill Set and Expertise
-* *You are a T-shaped Engineer who can work on a variety of problems by using the right tool for the right job.
+* You are a T-shaped Engineer who can work on a variety of problems by using the right tool for the right job.
 * Familiar coding in any of the programming environments like Java, Kotlin, Scala, Go etc.
 * Familiarity with any event-driven, asynchronous I/O frameworks like NodeJS, Netty etc.
 * Familiarity with any frontend frameworks like React, Angular etc.
@@ -50,16 +50,18 @@ We want everyone on the team to own code, design and architecture. It helps in s
 
 If you are interested in exploring a life-changing opportunity with The Nestery, please send an email with your resume and Github/LinkedIn profile to [ashwanth@thenestery.in](mailto:ashwanth@thenestery.in).
 
+---
+
 Furthermore, to give you a glimpse into the kind of problems we solve at The Nestery we’ve placed a sample challenge below. Please take a look.  And if you’re up for it, take a run at solving it. It’s totally optional — but, it’s a sure-fire way to impress us!
 
 ## Code Search
 Implement a fast (sub second query time) keyword search over the Redis source code. When a word or phrase is given, relevant code snippets and their corresponding source files should show up as results.
 
-### What we’re looking for
+#### What we’re looking for
 - We would like you to write your own algorithm, instead of using an off-the-shelf search solution like Lucene or Solr. Use of general purpose helper libraries (e.g. for basic data structures) is fine.
 - Feel free to pick any language of your choice.
 
-### Bonus points
+#### Bonus points
 - Allow the user to specify whether the word is part of a function name, parameter list or variable name.
 - A simple HTTP wrapper API to expose the search interface.
 
