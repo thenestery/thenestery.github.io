@@ -1,0 +1,12 @@
+baseURL: 'https://thenestery.github.io/'
+languageCode:  'en-us'
+title: 'Engineering @ Nestery'
+theme:  'PaperMod'
+markup.goldmark.renderer.unsafe: true
+
+params:
+  disableSpecial1stPost: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
