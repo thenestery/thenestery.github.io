@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Nestery.tech</title>
-    <link>https://thenestery.github.io/</link>
-    <description>Recent content on Nestery.tech</description>
+    <title>thenestery.tech</title>
+    <link>https://thenestery.tech/</link>
+    <description>Recent content on thenestery.tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Feb 2022 13:30:00 +0530</lastBuildDate><atom:link href="https://thenestery.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Feb 2022 13:30:00 +0530</lastBuildDate><atom:link href="https://thenestery.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://thenestery.github.io/jobs/</link>
+      <link>https://thenestery.tech/jobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thenestery.github.io/jobs/</guid>
+      <guid>https://thenestery.tech/jobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile Developer</title>
-      <link>https://thenestery.github.io/posts/mobile-developers/</link>
+      <link>https://thenestery.tech/posts/mobile-developers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thenestery.github.io/posts/mobile-developers/</guid>
+      <guid>https://thenestery.tech/posts/mobile-developers/</guid>
       <description>Join us to build next generation Social Commerce Mobile App(s) across platforms.</description>
     </item>
     
     <item>
       <title>Software Engineers</title>
-      <link>https://thenestery.github.io/posts/software-engineers/</link>
+      <link>https://thenestery.tech/posts/software-engineers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://thenestery.github.io/posts/software-engineers/</guid>
+      <guid>https://thenestery.tech/posts/software-engineers/</guid>
       <description>Join us to be part of the next generation Social Commerce platform for parents.</description>
     </item>
     

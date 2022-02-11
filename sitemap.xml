@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thenestery.github.io/</loc>
+    <loc>https://thenestery.tech/</loc>
     <lastmod>2022-02-11T13:30:00+05:30</lastmod>
   </url><url>
-    <loc>https://thenestery.github.io/jobs/</loc>
+    <loc>https://thenestery.tech/jobs/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://thenestery.github.io/categories/</loc>
+    <loc>https://thenestery.tech/categories/</loc>
   </url><url>
-    <loc>https://thenestery.github.io/tags/jobs/</loc>
+    <loc>https://thenestery.tech/tags/jobs/</loc>
   </url><url>
-    <loc>https://thenestery.github.io/posts/mobile-developers/</loc>
+    <loc>https://thenestery.tech/posts/mobile-developers/</loc>
   </url><url>
-    <loc>https://thenestery.github.io/posts/</loc>
+    <loc>https://thenestery.tech/posts/</loc>
   </url><url>
-    <loc>https://thenestery.github.io/posts/software-engineers/</loc>
+    <loc>https://thenestery.tech/posts/software-engineers/</loc>
   </url><url>
-    <loc>https://thenestery.github.io/tags/</loc>
+    <loc>https://thenestery.tech/tags/</loc>
   </url>
 </urlset>
