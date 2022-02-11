@@ -21,6 +21,7 @@ params:
       text: "thenestery.tech"
       icon: /favicon.png
       iconHeight: 35
+      iconWidth: 35
 
 menu:
     main:
