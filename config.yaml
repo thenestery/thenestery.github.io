@@ -9,13 +9,19 @@ params:
   title: thenestery.tech
   description: "Join us to build the technology behind The Nestery, social commerce revolution for parents."
   ShowShareButtons: true
+  images: ["/nestery.jpeg"]
 
   assets:
     favicon: "/favicon.png"
-    favicon16x16: "favicon.png"
-    favicon32x32: "favicon.png"
-    apple_touch_icon: "favicon.png"
-    safari_pinned_tab: "favicon.png"
+    favicon16x16: "/favicon.png"
+    favicon32x32: "/favicon.png"
+    apple_touch_icon: "/favicon.png"
+    safari_pinned_tab: "/favicon.png"
+  label:
+      text: "thenestery.tech"
+      icon: /favicon.png
+      iconHeight: 35
+
 menu:
     main:
         - identifier: jobs
@@ -24,7 +30,7 @@ menu:
           weight: 20
         - identifier: store
           name: thenestery.in
-          url: https://thenestery.in
+          url: https://thenestery.in/
           weight: 30
 
 
