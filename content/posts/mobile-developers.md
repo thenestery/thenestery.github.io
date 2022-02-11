@@ -1,6 +1,8 @@
 ---
 title: "Mobile Developer"
 summary: "Join us to build next generation Social Commerce Mobile App(s) across platforms."
+tags:
+- jobs
 ---
 
 If you’re passionate about mobile platforms and translating code into user-friendly apps, we would like to meet you. As a Mobile developer, you’ll collaborate with internal teams to develop functional mobile applications, while working in a fast-paced environment.

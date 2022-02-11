@@ -2,6 +2,8 @@
 title: "Software Engineers"
 draft: false
 summary: "Join us to be part of the next generation Social Commerce platform for parents."
+tags:
+- jobs
 ---
 
 If you get an adrenaline rush when you hear about scale, if solving hard data problems is your thing or if squeezing the last bit out of your code to improve 1% query performance gives you a kick and you have some serious sense of humor, then The Nestery is the place for you!

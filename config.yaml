@@ -1,11 +1,33 @@
 baseURL: 'https://thenestery.github.io/'
 languageCode:  'en-us'
-title: 'Engineering @ Nestery'
+title: 'Nestery.tech'
 theme:  'PaperMod'
 markup.goldmark.renderer.unsafe: true
 
 params:
   disableSpecial1stPost: true
+  title: Nestery.tech
+  description: "Join us to build the technology behind The Nestery, social commerce revolution for parents."
+  ShowShareButtons: true
+
+  assets:
+    favicon: "/favicon.png"
+    favicon16x16: "favicon.png"
+    favicon32x32: "favicon.png"
+    apple_touch_icon: "favicon.png"
+    safari_pinned_tab: "favicon.png"
+menu:
+    main:
+        - identifier: website
+          name: thenestery.in
+          url: https://thenestery.in
+          weight: 30
+        - identifier: jobs
+          name: jobs
+          url: /tags/jobs/
+          weight: 30
+
+
 
 minify:
   disableXML: true
