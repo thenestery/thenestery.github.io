@@ -49,3 +49,42 @@ We want everyone on the team to own code, design and architecture. It helps in s
 * You’ve prior experience building a mobile app from scratch and publishing it on the Apple App Store / Google Play Store.
 
 If you are interested in exploring a life-changing opportunity with The Nestery, please send an email with your resume and Github/LinkedIn profile to [ashwanth@thenestery.in](mailto:ashwanth@thenestery.in).
+
+---
+
+## Mobile Store
+
+### Your mission
+Hey Mobile developer. Welcome. Your mission, should you choose to accept it, is to spend 2 hours creating an Mobile app demonstrating common tasks such as fetching data over network, parsing model entities from JSON, UI and navigation in any platform.
+
+We would prefer you build the solution on Flutter/Dart stack, but feel free to use native Android or iOS stack or any other cross platform tools if that's what you're comfortable with.
+
+### Your Tasks
+- The main page of your app should show the contents of a 'shopping basket'. Inititially the basket will be empty, but it should be possible to add products to the basket and also to clear the current contents of the basket.
+- Products to be added should be fetched from the API endpoint included below. They should be presented on a separate view controller, and the presentation should include at least the product name and image.
+- When products have been added to the shopping basket, they should be visible on the main page along with a total, that is the sum of the retail prices of all the products added to the basket.
+- Be creative with this. We want to see a functional app that demonstrates knowledge with the platform and the language. When in doubt, make an executive decision. Functionality is more important than the look and feel. If you finish early, feel free to polish it up.
+- For instance: If the same product is added twice you are welcome to either show it twice in the basket - or show it once with a quantity of 2. That is up to you. You may choose to add functionality to display further details about a product - like the description, but only do this if you have the time.
+- Once finished, send a link to your fork of the repository to [ashwanth@thenestery.in](mailto:ashwanth@thenestery.in)
+
+### Grading
+The exercise will be graded on a number of criteria including, but not limited to:
+
+- Clean and readable code
+- Code that to some extent follows the SOLID principles (https://en.wikipedia.org/wiki/SOLID)
+- Demonstrated knowledge of MVC, delegation, UI and navigation, fetching and parsing JSON data, git, dependency management
+
+### Micro API
+There is only one API request:
+
+```
+https://run.mocky.io/v3/3ad24c64-49ea-4752-a04d-527b2e36ad28
+```
+
+The result is a JSON object of a GraphQL query from a [Shopify Store](https://shopify.dev/api/admin-graphql/2022-01/queries/products)#products query.
+
+#### NOTES:
+
+- If the `variants.edges` have only 1 element, then the product has no variants, else they do.
+- If you choose not to use any third party dependencies, but do everything on your own, don't worry about dependency management.
+- You are free to choose the technology stack that you're comfortable with so that you can complete the task within a reasonable time limit.
