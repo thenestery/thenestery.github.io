@@ -52,7 +52,9 @@ If you are interested in exploring a life-changing opportunity with The Nestery,
 
 ---
 
-## Mobile Store
+Furthermore, to give you a glimpse into the kind of problems we solve at The Nestery we’ve placed a sample challenge below. Please take a look, and if you’re up for it, take a run at solving it. It’s a sure-fire way to impress us!
+
+## Micro Store
 
 ### Your mission
 Hey Mobile developer. Welcome. Your mission, should you choose to accept it, is to spend 2 hours creating an Mobile app demonstrating common tasks such as fetching data over network, parsing model entities from JSON, UI and navigation in any platform.

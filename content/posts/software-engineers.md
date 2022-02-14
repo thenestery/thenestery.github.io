@@ -54,7 +54,7 @@ If you are interested in exploring a life-changing opportunity with The Nestery,
 
 ---
 
-Furthermore, to give you a glimpse into the kind of problems we solve at The Nestery we’ve placed a sample challenge below. Please take a look.  And if you’re up for it, take a run at solving it. It’s totally optional — but, it’s a sure-fire way to impress us!
+Furthermore, to give you a glimpse into the kind of problems we solve at The Nestery we’ve placed a sample challenge below. Please take a look.  And if you’re up for it, take a run at solving it. It’s a sure-fire way to impress us!
 
 ## Code Search
 Implement a fast (sub second query time) keyword search over the Redis source code. When a word or phrase is given, relevant code snippets and their corresponding source files should show up as results.
